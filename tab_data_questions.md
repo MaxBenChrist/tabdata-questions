@@ -1,12 +1,12 @@
-The following list serves as a baseline list of questions that are used to get familiar with new tabular based data sources as a Data Scientists. 
+The following list serves as a baseline list of questions that are used to get familiar with new tabular data sources as a Data Scientists. 
 
-# Tabular level:
+# Table level:
 
 First the different tables themselves and how they relate to each other are under investigation:
 
 *   Association: How can the different tables be associated? How can one construct keys to associate them?
 *   Origin: Where do the different tables originate from? This could relate to technical systems, departments or processes.
-*   Construction: Were they joined from other tables or were they create from database dumps?
+*   Construction: Were they joined from other tables or were they created from database dumps?
 *   Stakeholder: How were the tables collected? Which organizations, departments or persons were involved?
 
 #  Column level: 
